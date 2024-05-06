@@ -1,0 +1,23 @@
+.bucket{
+    margin-top:60vh; 
+    max-width:50%;
+    max-height:40vmin; 
+    position:absolute; 
+}
+
+.coin{
+    position: absolute;
+    top:0;
+    max-width:20%;
+    max-height:10vmin; 
+    transition: 5s ease;
+    height:100px;
+    content:url("https://static.vecteezy.com/system/resources/previews/012/598/212/original/currency-coin-cartoon-png.png");
+    visibility: visible;
+
+}
+
+.coins{
+    width:100%;
+    height:100%;
+}
